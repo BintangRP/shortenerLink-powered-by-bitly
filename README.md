@@ -11,7 +11,7 @@ shorten links with python powered by bitly.
 2. [License](#license)
 
 ## Installation
-
+1. Download BitlyShortener.py or Copy Paste source code (●'◡'●)
 2. Use [Virtual env Python with VSCode](bit.ly/3DNWvWK)
 ![Venv python](https://github.com/BintangRP/shortenerLink-powered-by-bitly/blob/main/assets/Contoh%20Sudah%20Terinstall%20venv.PNG)
 
